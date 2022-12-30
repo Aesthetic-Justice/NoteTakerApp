@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker App
 [![MIT_License](https://img.shields.io/badge/license-MIT_License-success)](https://opensource.org/licenses/MIT)
 
 #### Table of Contents
